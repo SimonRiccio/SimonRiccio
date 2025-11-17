@@ -45,7 +45,7 @@ Feel free to reach out for CTF discussions, Entry-Level opportunities, or just t
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-2C364A?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonericcio.cyber@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Ricci_02/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ricci_02/)
  
 
 # 📊 GitHub Stats:
