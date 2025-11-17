@@ -16,8 +16,9 @@ I'm a Cybersecurity Master's student with a deep passion for offensive and defen
 
 | Area | Details | Badge |
 | :--- | :--- | :--- |
-| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![CTF](https://img.shields.io/badge/CTF-FF4500?style=flat&logo=ctf&logoColor=white) |
-| **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C. **Actively growing proficiency in these areas.** | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | [![TryHackMe](https://img.shields.io/badge/TryHackMe-2C364A?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034) |
+| **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C.  | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **Pentesting Tools** | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit. **Hands-on experience gained through labs and CTF challenges.** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
 | **Certifications** | `Actively pursuing industry certifications.` `(e.g., eJPT, OSCP preparation)` | - |
 
@@ -37,15 +38,10 @@ This is my dedicated lab for Cybersecurity projects, reflecting my journey from 
 
 Feel free to reach out for CTF discussions, Entry-Level opportunities, or just to talk security! I am always open to advice and mentorship.
 
-### 🌐 Socials:
 
-Feel free to reach out for CTF discussions, Entry-Level opportunities, or just to talk security! I am always open to advice and mentorship.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-2C364A?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonericcio.cyber@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ricci_02/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
  
 
 <!--# 📊 GitHub Stats:
