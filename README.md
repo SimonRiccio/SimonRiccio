@@ -37,20 +37,15 @@ This is my dedicated lab for Cybersecurity projects, reflecting my journey from 
 
 Feel free to reach out for CTF discussions, Entry-Level opportunities, or just to talk security! I am always open to advice and mentorship.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/simone-riccio-55373b204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://tryhackme.com/p/I4m6r0o7" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88CCEE?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="mailto:simonericcio.cyber@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.reddit.com/user/Ricci_02/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white" alt="Reddit">
-  </a>
-</p>
+### 🌐 Socials:
+
+Feel free to reach out for CTF discussions, Entry-Level opportunities, or just to talk security! I am always open to advice and mentorship.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CCEE?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-88CCEE?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonericcio.cyber@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Ricci_02/)
  
 
 # 📊 GitHub Stats:
