@@ -42,8 +42,8 @@ Feel free to reach out for CTF discussions, Entry-Level opportunities, or just t
 Feel free to reach out for CTF discussions, Entry-Level opportunities, or just to talk security! I am always open to advice and mentorship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CCEE?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-88CCEE?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-2C364A?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-1b3636?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/852034)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonericcio.cyber@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Ricci_02/)
  
