@@ -7,9 +7,9 @@ Hi there 👋<br><br>I'm a Cybersecurity Master's student with a deep passion fo
 
 | Area | Details | Badge Example |
 | :--- | :--- | :--- |
-| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![CTF](https://img.shields.io/badge/CTF-Passion-orange?style=for-the-badge&logo=ghost&logoColor=white) |
+| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![CTF](https://img.shields.io/badge/CTF?style=for-the-badge&logo=ghost&logoColor=white) |
 | **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C. **Actively growing proficiency in these areas.** | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Pentesting Tools** | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit. **Hands-on experience gained through labs and CTF challenges.** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| **Pentesting Tools** | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit. **Hands-on experience gained through labs and CTF challenges.** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
 | **Certifications** | *soon* | - |
 
 ---
@@ -28,11 +28,12 @@ This is my dedicated lab for Cybersecurity projects, reflecting my journey from 
 
 Feel free to reach out for CTF discussions, Entry-Level opportunities, or just to talk security! I am always open to advice and mentorship.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-riccio-55373b204/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CCEE?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/I4m6r0o7)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonericcio.cyber@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Ricci_02/)
 <!--HTB%%-->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonericcio.cyber@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Ricci_02/) 
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SimonRiccio&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
