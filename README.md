@@ -16,10 +16,10 @@ I'm a Cybersecurity Master's student with a deep passion for offensive and defen
 
 | Area | Details | Badge Example |
 | :--- | :--- | :--- |
-| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![CTF](https://img.shields.io/badge/Hacking-CTF-darkgreen?style=flat&logo=skull&logoColor=green) |
+| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![Access](https://img.shields.io/badge/CTF-Access%20Granted-darkgreen?style=flat&logo=key&logoColor=white) |
 | **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C. **Actively growing proficiency in these areas.** | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **Pentesting Tools** | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit. **Hands-on experience gained through labs and CTF challenges.** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
-| **Certifications** |`Actively pursuing industry certifications.` `(e.g., eJPT, OSCP preparation)` | ![Goal](https://img.shields.io/badge/Goal-In%20Progress-blue?style=flat&logo=flag&logoColor=white) |
+| **Certifications** | `Actively pursuing industry certifications.` `(e.g., eJPT, OSCP preparation)` | - |
 
 ---
 
