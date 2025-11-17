@@ -7,8 +7,8 @@ Hi there 👋<br><br>I'm a Cybersecurity Master's student with a deep passion fo
 
 | Area | Details | Badge Example |
 | :--- | :--- | :--- |
-| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![CTF](https://img.shields.io/badge/CTF?style=for-the-badge&logo=ghost&logoColor=white) |
-| **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C. **Actively growing proficiency in these areas.** | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Ethical Hacking / CTFs** | Reverse Engineering, Web Exploitation, Binary Exploitation, OSINT, Network Analysis. | ![CTF](https://img.shields.io/badge/CTF-aa?style=flat&logo=ghost&logoColor=white) |
+| **Languages & Scripting** | **Python** (for auditing tools and exploit development), Bash, C. **Actively growing proficiency in these areas.** | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **Pentesting Tools** | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit. **Hands-on experience gained through labs and CTF challenges.** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
 | **Certifications** | *soon* | - |
 
@@ -38,7 +38,7 @@ Feel free to reach out for CTF discussions, Entry-Level opportunities, or just t
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SimonRiccio&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SimonRiccio&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonRiccio&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonRiccio&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SimonRiccio&icon=0&color=0)](https://visitcount.itsvg.in)
